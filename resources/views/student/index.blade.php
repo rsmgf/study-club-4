@@ -22,6 +22,7 @@
                         <th>Prodi</th>
                         <th>Angkatan</th>
                         <th>Alamat</th>
+                        <th>test</th>
                         <th>Action</th>
                     </tr>
                 </thead>
